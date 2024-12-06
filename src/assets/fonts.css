@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Slussen Bold';
+    src: url('@/assets/fonts/Slussen Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Slussen Regular';
+    src: url('@/assets/fonts/Slussen Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

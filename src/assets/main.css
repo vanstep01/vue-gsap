@@ -1,0 +1,20 @@
+@import './base.css';
+@import './fonts.css';
+
+#app {
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 3.31rem;
+  font-family: 'Slussen Bold', sans-serif;
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Slussen Regular', sans-serif;
+}
